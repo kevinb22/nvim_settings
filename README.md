@@ -6,26 +6,26 @@ Below is a list of the nvim plugins I am using. Each should be cloned in the `.c
 
 ### Vundle
 https://github.com/VundleVim/Vundle.vim
-bash`
+```bash
 git clone https://github.com/gmarik/Vundle.vim
-`
+```
 
 ### gitgutter
 https://github.com/airblade/vim-gitgutter
-bash`
+```bash
 git clone git://github.com/airblade/vim-gitgutter.git
-`
+```
 
 ### lightline
 https://github.com/itchyny/lightline.vim
-bash`
+```bash
 git clone https://github.com/itchyny/lightline.vim
-`
+````
 
 ### nerdtree
 https://github.com/scrooloose/nerdtree
-bash`
+```bash
 git clone https://github.com/scrooloose/nerdtree.git
-`
+````
 ## Installation
 In nvim run `:PluginInstall`
