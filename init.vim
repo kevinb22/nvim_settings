@@ -10,6 +10,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'scrooloose/nerdtree'
 Plugin 'itchyny/lightline.vim'
+Plugin 'wsdjeg/vim-fetch'
 
 call vundle#end()
 filetype plugin indent on  " allows auto-indenting depending on file type
