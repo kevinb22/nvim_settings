@@ -37,3 +37,9 @@ https://github.com/scrooloose/nerdtree
 ```bash
 $git clone https://github.com/scrooloose/nerdtree.git
 ```
+
+### vim-fetch
+https://github.com/wsdjeg/vim-fetch
+```bash
+$git clone git@github.com:wsdjeg/vim-fetch.git
+```
